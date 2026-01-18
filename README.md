@@ -26,7 +26,7 @@ A [VSCode](https://github.com/MateusPitura/extension-vscode-console) extension i
 🔎︎ **Filter Logs:** filter the logs by those that start with an emoji 🌠
 
 <p align="center"> 
-  <video src="https://github.com/user-attachments/assets/de2b3b9e-9413-4923-8373-d5b9e754eda2"/> 
+  <video src="https://github.com/user-attachments/assets/bbecf63e-485b-49ad-9edf-99bfd149eeed"/> 
 </p> 
 
 ## How to Run
