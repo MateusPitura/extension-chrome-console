@@ -31,7 +31,7 @@ A [VSCode](https://github.com/MateusPitura/extension-vscode-console) extension i
 
 ## How to Run
 
-1. On [GitHub](https://github.com/MateusPitura/extension-typescript-console/), navigate to the Releases tab, download the `.zip` file, and unpack it
+1. On [GitHub](https://github.com/MateusPitura/extension-chrome-console), navigate to the Releases tab, download the `.zip` file, and unpack it
 
 2. Open the Extensions tab in Chrome, enable `Developer mode` > `Load unpacked`
 
