@@ -49,11 +49,11 @@ A [VSCode](https://github.com/MateusPitura/extension-vscode-console) extension i
 
 4. Update `version` references and run `npm i`
 
-6. Run `npm run build`, zip the `dist/` folder
+6. Run `npm run build`, zip the `dist/` folder with name `dist.zip`
 
 7. Create a tag in Git and upload to GitHub
 
-8. Create a new release on GitHub with the new `.zip` file
+8. Create a new release on GitHub with the new `dist.zip` file
 
 ## Technologies Used
 

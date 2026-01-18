@@ -2,3 +2,4 @@ node_modules/
 dist/
 public/contentStyle.module.css
 public/manifest.json
+dist.zip
