@@ -12,7 +12,7 @@
 
 View `console.log` outputs directly in your browser without needing to open the Developer Tools
 
-A [VSCode](https://github.com/MateusPitura/extension-vscode-console) extension is available for optional use to enhance productivity
+A [VSCode](https://url.mateuspitura.com?q=github.com/MateusPitura/extension-vscode-console) extension is available for optional use to enhance productivity
 
 - [Features](#features)
 - [How to Run](#how-to-run)
@@ -31,7 +31,7 @@ A [VSCode](https://github.com/MateusPitura/extension-vscode-console) extension i
 
 ## How to Run
 
-1. On [GitHub](https://github.com/MateusPitura/extension-chrome-console), navigate to the Releases tab, download the `.zip` file, and unpack it
+1. On GitHub, navigate to the Releases tab, download the `.zip` file, and unpack it
 
 2. Open the Extensions tab in Chrome, enable `Developer mode` > `Load unpacked`
 
